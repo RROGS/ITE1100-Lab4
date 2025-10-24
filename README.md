@@ -12,3 +12,6 @@ Steps I followed:
 5. Opened a pull request for review
 6. Collaborator approved and request was merged
 7. Took screenshots for proof
+
+Collaborators:
+Ronriel Greenidge, Darindra Charan
